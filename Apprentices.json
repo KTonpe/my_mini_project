@@ -1,0 +1,113 @@
+{
+    "Apprentices": {
+        "hyderabad": [
+            {
+                "name": "narendra modi",
+                "employee_id": "a123454",
+                "email": "narendra.modi@jda.com",
+                "contact": "8928989646"
+            },
+            {
+                "name": "keertan mishra",
+                "employee_id": "a1234456",
+                "email": "keertan.mishra@jda.com",
+                "contact": "123456789"
+            },
+            {
+                "name": "jayanth billa",
+                "employee_id": "a123875",
+                "email": "jayanth.billa@jda.com",
+                "contact": "9976512309"
+            },
+            {
+                "name": "ishwarya nakoti",
+                "employee_id": "a1568309",
+                "email": "ishwarya.nakoti@jda.com",
+                "contact": "1234567789"
+            },
+            {
+                "name": "nithin burugu",
+                "employee_id": "a4429204",
+                "email": "nithin.burugu@jda.com",
+                "contact": "1234567892"
+            },
+            {
+                "name": "krishna tonpe",
+                "employee_id": "a123455",
+                "email": "krihna.tonpe@blueyonder.com",
+                "contact": "8928989645"
+            },
+            {
+                "name": "kasutubh tonpe",
+                "employee_id": "a1234567",
+                "email": "kasutubh.tonpe@jda.com",
+                "contact": "1234567890",
+                "location": "hyderabad"
+            }
+        ],
+        "bangalore": [
+            {
+                "name": "sivani cheruku",
+                "employee_id": "a123451",
+                "email": "sivani.cheruku@jda.com",
+                "contact": "+1 (555) 123-4567"
+            },
+            {
+                "name": "radhika ramireddy",
+                "employee_id": "a123450",
+                "email": "radhika.ramireddy@jda.com",
+                "contact": "+1 (555) 123-4567"
+            },
+            {
+                "name": "simoni verma",
+                "employee_id": "a123459",
+                "email": "simoni.verma@jda.com",
+                "contact": "+1 (555) 123-4567"
+            },
+            {
+                "name": "laksmi prasnna",
+                "employee_id": "a2345123",
+                "email": "laksmi.prasnna@jda.com",
+                "contact": "8928989645"
+            },
+            {
+                "name": "priyamani kutchlu",
+                "employee_id": "a4574047",
+                "email": "priyamani.kutchlu@jda.com",
+                "contact": "8928989654"
+            }
+        ],
+        "coimbatore": [
+            {
+                "name": "sulochana kuppu",
+                "employee_id": "a0133682",
+                "email": "sulochana.kuppu@jda.com",
+                "contact": "1234567891"
+            },
+            {
+                "name": "prithin purugu",
+                "employee_id": "a2810228",
+                "email": "prithin.purugu@jda.com",
+                "contact": "4545454545"
+            },
+            {
+                "name": "bellam lu",
+                "employee_id": "a3476191",
+                "email": "bellam.lu@jda.com",
+                "contact": "6767676767"
+            },
+            {
+                "name": "bellam lumulu",
+                "employee_id": "a3651466",
+                "email": "bellam.lumulu@jda.com",
+                "contact": "6767676767"
+            },
+            {
+                "name": "vinara vema",
+                "employee_id": "a6593102",
+                "email": "vinara.vema@jda.com",
+                "contact": "1234567899"
+            }
+        ]
+    }
+}
